@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 Hello World 
-=======
-Hello World *
-line from user1
->>>>>>> b3e289b144e8de1d55f714b432020464f138833a
+some change
